@@ -1,0 +1,12 @@
+div{
+	height: 100px;
+	width: 500px;
+	color: white;
+	background-color: rgb(215,92,5);
+	border: 150px solid transparent;
+	padding:10px 5px;
+	text-align: center;
+	border-image-source: url(border.jpg);
+	border-image-repeat: stretch;
+	border-image-slice: 50;
+}

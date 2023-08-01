@@ -1,0 +1,99 @@
+/*.external
+{
+	border: 3px dashed darkred;
+	background-color: yellowgreen;
+	font-size: 50px;
+	font-family: cursive;
+}
+#id_selector
+{
+	color: green;
+	background-color: yellow;
+	font-size: 30px;
+}
+h1
+{
+	color: deeppink;
+	font-size: 30px;
+	font-family: cursive;
+
+}
+p
+{
+	color: blue;
+	font-size: 20px;
+}
+*
+{
+	font-family:cursive;
+	margin: 0px;
+	padding: 0px;
+}
+input[type]{
+	color: red;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="number"]{
+	color: green;
+}
+a[href]{
+	color: hotpink;
+}
+img[src]{
+	border: 5px dashed darkred;
+	height: 400px;
+	width: 600px;
+}
+a:hover{
+	color: red;
+	font-size:40px;
+}
+a:link{
+	color: green;
+}
+a:visited{
+	color:yellow;
+}
+a:active{
+	color: brown;
+}
+/*body{
+	background-image: url(bus.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}*/
+/*div{
+	height: 180px;
+	width: 189px;
+	border: 6px solid deeppink;
+	background-image: url(bus.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+/*span{
+	border-style: double;
+	border-width: 5px;
+	border-color: green orange blue deeppink;
+	border-top-style: dotted;
+	border-right-style: dashed;
+	border-bottom-style: groove;
+	border-left-style: ridge;
+}*/
+/*.boxborder-me
+{
+	box-shadow: 0 0 0 5px firebrick;
+	outline: dashed 5px darkturquoise;
+}
+.gradientBox{
+	border-image-slice: 30 30 30 30;
+}
+.stamp{
+	border-image-slice: 8 8 8 8;
+}*/
+.box{
+		height: 400px;
+		width: 300px;
+		background: blue;
+}
