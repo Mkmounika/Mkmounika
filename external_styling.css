@@ -92,8 +92,11 @@ a:active{
 .stamp{
 	border-image-slice: 8 8 8 8;
 }*/
-.box{
-		height: 400px;
-		width: 300px;
-		background: blue;
+#mar{
+	background: gray;
+	
+	margin-top: 10px;
+	margin-right: 500px;
+	margin-bottom: 500px;
+	margin-left: 500px;
 }
